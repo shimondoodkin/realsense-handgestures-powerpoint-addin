@@ -1,0 +1,11 @@
+D:\shimon\projects\Gestures\Gestures\bin\Debug\Gestures.dll
+D:\shimon\projects\Gestures\Gestures\bin\Debug\Gestures.pdb
+D:\shimon\projects\Gestures\Gestures\bin\Debug\Gestures.dll.manifest
+D:\shimon\projects\Gestures\Gestures\bin\Debug\Gestures.vsto
+D:\shimon\projects\Gestures\Gestures\bin\Debug\libpxcclr.dll
+D:\shimon\projects\Gestures\Gestures\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\shimon\projects\Gestures\Gestures\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\shimon\projects\Gestures\Gestures\obj\Debug\Gestures.Properties.Resources.resources
+D:\shimon\projects\Gestures\Gestures\obj\Debug\Gestures.csproj.GenerateResource.Cache
+D:\shimon\projects\Gestures\Gestures\obj\Debug\Gestures.dll
+D:\shimon\projects\Gestures\Gestures\obj\Debug\Gestures.pdb
